@@ -26,7 +26,7 @@ slide.shapes.title.text_frame.paragraphs[0].font.size = Pt(100)
 prs.slide_width = Inches(12.4)
 prs.slide_height = Inches(11.1)
 
-base_path = '/ix3/tibrahim/jil202/03-PMB'
+base_path = '/ix1/tibrahim/shared/tibrahim_drj21/03-PMB/'
 T1_path = natsorted(glob.glob(f'{base_path}/{date}/{ID}/rembg_cam/match_T1/*.png'))
 T1_anno_path = natsorted(glob.glob(f'{base_path}/{date}/{ID}/rembg_cam/match_T1_anno/*.png'))
 
