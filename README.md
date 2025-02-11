@@ -43,6 +43,6 @@ After this command is done running, you will see a pptx file under the folder Fo
 2024.12.16-17.11.39/
 ├── ADRC_137/
 ├── CW24-36/
-└── angle_pos
+├── angle_pos
 └── CW24-36.pptx
 ```
