@@ -38,7 +38,7 @@ If you want to align case ADRC_137 you can run the following command under the a
 
 ```python alignment_annotated.py 2024.12.16-17.11.39 ADRC_137 CW24-36```
 
-After this command is done running, you will see a pptx file under the folder For example:
+After this command is done running, you will see a pptx file under the folder. For example:
 ```
 2024.12.16-17.11.39/
 ├── ADRC_137/
