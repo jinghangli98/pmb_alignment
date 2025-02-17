@@ -17,7 +17,7 @@ start=np.int16(sys.argv[3])
 end=np.int16(sys.argv[4])
 
 
-basepath = '/ix1/tibrahim/shared/tibrahim_drj21/03-PMB/'
+basepath = '/ix1/tibrahim/shared/tibrahim_jkofler/03-PMB/'
 paths = basepath + '/' + date + '/' + ID + '/rembg_cam/resizedCam_adjusted'
 
 paths = glob.glob(f'{paths}/*.png')

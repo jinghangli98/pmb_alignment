@@ -25,7 +25,7 @@ date = sys.argv[1]
 ID = sys.argv[2]
 CW_ID = sys.argv[3]
 
-base_path='/ix1/tibrahim/shared/tibrahim_drj21/03-PMB'
+base_path='/ix1/tibrahim/shared/tibrahim_jkofler/03-PMB'
 mat = pd.read_table(f'{base_path}/{date}/angle_pos', header=None)
 [x,y,z] = np.float16(mat.iloc[0][0].split(","))
 rot_mat = get_rotation_matrix(x,y,z) #x y -z
