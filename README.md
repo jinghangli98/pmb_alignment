@@ -21,7 +21,7 @@ conda create -n pmb python=3.9
 ```
 Then we can install the required packages with 
 ```
-cd /ix1/tibrahim/shared/tibrahim_drj21/03-PMB/alignment_code 
+cd /ix1/tibrahim/shared/tibrahim_jkofler/03-PMB/alignment_code 
 conda activate pmb
 pip3 install -r requirements.txt
 ```
