@@ -4,7 +4,7 @@ You can log into CRC with terminal with
 
 ssh ```pitt_user_name@h2p.crc.pitt.edu```
 
-Or you can log into CRC with the remote ssh plug-in using vscode
+Or you can log into CRC with the remote ssh plug-in using vscode instructions can be found [here](https://crc-pages.pitt.edu/user-manual/slurm/vscode/)
 
 ## Installation (crc)
 
